@@ -1,0 +1,3 @@
+id,name,password,manager
+1,bob,password,true
+2,phil,password,false
